@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Fear of the Dark",
+    "artista": "Iron Maiden",
+    "tono": "D",
+    "id": 1
+  },
+  {
+    "titulo": "The Trooper",
+    "artista": "Iron Maiden",
+    "tono": "E",
+    "id": 2
+  },
+  {
+    "titulo": "Hallowed Be Thy Name",
+    "artista": "Iron Maiden",
+    "tono": "D",
+    "id": 3
+  }
+]

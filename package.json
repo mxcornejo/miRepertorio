@@ -1,0 +1,8 @@
+{
+  "name": "mirepertorio",
+  "description": "Desafio 2 Manuel Cornejo",
+  "author": "Manuel Cornejo",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
